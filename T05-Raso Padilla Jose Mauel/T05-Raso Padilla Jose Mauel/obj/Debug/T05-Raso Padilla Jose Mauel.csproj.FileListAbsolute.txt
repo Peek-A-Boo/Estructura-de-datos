@@ -1,0 +1,7 @@
+C:\Users\PC\Downloads\T05-Raso Padilla Jose Mauel\T05-Raso Padilla Jose Mauel\bin\Debug\T05-Raso Padilla Jose Mauel.exe.config
+C:\Users\PC\Downloads\T05-Raso Padilla Jose Mauel\T05-Raso Padilla Jose Mauel\bin\Debug\T05-Raso Padilla Jose Mauel.exe
+C:\Users\PC\Downloads\T05-Raso Padilla Jose Mauel\T05-Raso Padilla Jose Mauel\bin\Debug\T05-Raso Padilla Jose Mauel.pdb
+C:\Users\PC\Downloads\T05-Raso Padilla Jose Mauel\T05-Raso Padilla Jose Mauel\obj\Debug\T05-Raso Padilla Jose Mauel.csprojAssemblyReference.cache
+C:\Users\PC\Downloads\T05-Raso Padilla Jose Mauel\T05-Raso Padilla Jose Mauel\obj\Debug\T05-Raso Padilla Jose Mauel.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\T05-Raso Padilla Jose Mauel\T05-Raso Padilla Jose Mauel\obj\Debug\T05-Raso Padilla Jose Mauel.exe
+C:\Users\PC\Downloads\T05-Raso Padilla Jose Mauel\T05-Raso Padilla Jose Mauel\obj\Debug\T05-Raso Padilla Jose Mauel.pdb
