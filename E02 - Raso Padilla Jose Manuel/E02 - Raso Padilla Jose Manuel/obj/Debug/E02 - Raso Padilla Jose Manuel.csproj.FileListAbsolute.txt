@@ -1,0 +1,33 @@
+C:\Users\PKBoo\Desktop\E02 - Raso Padilla Jose Manuel\E02 - Raso Padilla Jose Manuel\obj\Debug\E02 - Raso Padilla Jose Manuel.csprojResolveAssemblyReference.cache
+C:\Users\PKBoo\Desktop\E02 - Raso Padilla Jose Manuel\E02 - Raso Padilla Jose Manuel\obj\Debug\E02 - Raso Padilla Jose Manuel.csproj.ResolveComReference.cache
+C:\Users\PKBoo\Desktop\E02 - Raso Padilla Jose Manuel\E02 - Raso Padilla Jose Manuel\obj\Debug\E02___Raso_Padilla_Jose_Manuel.Form1.resources
+C:\Users\PKBoo\Desktop\E02 - Raso Padilla Jose Manuel\E02 - Raso Padilla Jose Manuel\obj\Debug\E02___Raso_Padilla_Jose_Manuel.Properties.Resources.resources
+C:\Users\PKBoo\Desktop\E02 - Raso Padilla Jose Manuel\E02 - Raso Padilla Jose Manuel\obj\Debug\E02 - Raso Padilla Jose Manuel.csproj.GenerateResource.Cache
+C:\Users\PKBoo\Desktop\E02 - Raso Padilla Jose Manuel\E02 - Raso Padilla Jose Manuel\obj\Debug\E02 - Raso Padilla Jose Manuel.csproj.CoreCompileInputs.cache
+C:\Users\PKBoo\Desktop\E02 - Raso Padilla Jose Manuel\E02 - Raso Padilla Jose Manuel\bin\Debug\E02 - Raso Padilla Jose Manuel.exe.config
+C:\Users\PKBoo\Desktop\E02 - Raso Padilla Jose Manuel\E02 - Raso Padilla Jose Manuel\bin\Debug\E02 - Raso Padilla Jose Manuel.exe
+C:\Users\PKBoo\Desktop\E02 - Raso Padilla Jose Manuel\E02 - Raso Padilla Jose Manuel\bin\Debug\E02 - Raso Padilla Jose Manuel.pdb
+C:\Users\PKBoo\Desktop\E02 - Raso Padilla Jose Manuel\E02 - Raso Padilla Jose Manuel\obj\Debug\E02 - Raso Padilla Jose Manuel.exe
+C:\Users\PKBoo\Desktop\E02 - Raso Padilla Jose Manuel\E02 - Raso Padilla Jose Manuel\obj\Debug\E02 - Raso Padilla Jose Manuel.pdb
+D:\E02 - Raso Padilla Jose Manuel\E02 - Raso Padilla Jose Manuel\bin\Debug\E02 - Raso Padilla Jose Manuel.exe.config
+D:\E02 - Raso Padilla Jose Manuel\E02 - Raso Padilla Jose Manuel\bin\Debug\E02 - Raso Padilla Jose Manuel.exe
+D:\E02 - Raso Padilla Jose Manuel\E02 - Raso Padilla Jose Manuel\bin\Debug\E02 - Raso Padilla Jose Manuel.pdb
+D:\E02 - Raso Padilla Jose Manuel\E02 - Raso Padilla Jose Manuel\obj\Debug\E02 - Raso Padilla Jose Manuel.csproj.ResolveComReference.cache
+D:\E02 - Raso Padilla Jose Manuel\E02 - Raso Padilla Jose Manuel\obj\Debug\E02___Raso_Padilla_Jose_Manuel.Form1.resources
+D:\E02 - Raso Padilla Jose Manuel\E02 - Raso Padilla Jose Manuel\obj\Debug\E02___Raso_Padilla_Jose_Manuel.Properties.Resources.resources
+D:\E02 - Raso Padilla Jose Manuel\E02 - Raso Padilla Jose Manuel\obj\Debug\E02 - Raso Padilla Jose Manuel.csproj.GenerateResource.Cache
+D:\E02 - Raso Padilla Jose Manuel\E02 - Raso Padilla Jose Manuel\obj\Debug\E02 - Raso Padilla Jose Manuel.csproj.CoreCompileInputs.cache
+D:\E02 - Raso Padilla Jose Manuel\E02 - Raso Padilla Jose Manuel\obj\Debug\E02 - Raso Padilla Jose Manuel.exe
+D:\E02 - Raso Padilla Jose Manuel\E02 - Raso Padilla Jose Manuel\obj\Debug\E02 - Raso Padilla Jose Manuel.pdb
+E:\E02 - Raso Padilla Jose Manuel\E02 - Raso Padilla Jose Manuel\bin\Debug\E02 - Raso Padilla Jose Manuel.exe.config
+E:\E02 - Raso Padilla Jose Manuel\E02 - Raso Padilla Jose Manuel\bin\Debug\E02 - Raso Padilla Jose Manuel.exe
+E:\E02 - Raso Padilla Jose Manuel\E02 - Raso Padilla Jose Manuel\bin\Debug\E02 - Raso Padilla Jose Manuel.pdb
+E:\E02 - Raso Padilla Jose Manuel\E02 - Raso Padilla Jose Manuel\obj\Debug\E02 - Raso Padilla Jose Manuel.csprojAssemblyReference.cache
+E:\E02 - Raso Padilla Jose Manuel\E02 - Raso Padilla Jose Manuel\obj\Debug\E02 - Raso Padilla Jose Manuel.csproj.ResolveComReference.cache
+E:\E02 - Raso Padilla Jose Manuel\E02 - Raso Padilla Jose Manuel\obj\Debug\E02___Raso_Padilla_Jose_Manuel.Form1.resources
+E:\E02 - Raso Padilla Jose Manuel\E02 - Raso Padilla Jose Manuel\obj\Debug\E02___Raso_Padilla_Jose_Manuel.Properties.Resources.resources
+E:\E02 - Raso Padilla Jose Manuel\E02 - Raso Padilla Jose Manuel\obj\Debug\E02 - Raso Padilla Jose Manuel.csproj.GenerateResource.cache
+E:\E02 - Raso Padilla Jose Manuel\E02 - Raso Padilla Jose Manuel\obj\Debug\E02 - Raso Padilla Jose Manuel.csproj.CoreCompileInputs.cache
+E:\E02 - Raso Padilla Jose Manuel\E02 - Raso Padilla Jose Manuel\obj\Debug\E02 - Raso Padilla Jose Manuel.exe
+E:\E02 - Raso Padilla Jose Manuel\E02 - Raso Padilla Jose Manuel\obj\Debug\E02 - Raso Padilla Jose Manuel.pdb
+D:\E02 - Raso Padilla Jose Manuel\E02 - Raso Padilla Jose Manuel\obj\Debug\E02 - Raso Padilla Jose Manuel.csprojAssemblyReference.cache

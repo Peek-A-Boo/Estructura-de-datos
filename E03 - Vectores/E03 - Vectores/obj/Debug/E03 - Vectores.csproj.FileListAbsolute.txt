@@ -1,0 +1,7 @@
+D:\E03 - Vectores\E03 - Vectores\bin\Debug\E03 - Vectores.exe.config
+D:\E03 - Vectores\E03 - Vectores\bin\Debug\E03 - Vectores.exe
+D:\E03 - Vectores\E03 - Vectores\bin\Debug\E03 - Vectores.pdb
+D:\E03 - Vectores\E03 - Vectores\obj\Debug\E03 - Vectores.csprojResolveAssemblyReference.cache
+D:\E03 - Vectores\E03 - Vectores\obj\Debug\E03 - Vectores.csproj.CoreCompileInputs.cache
+D:\E03 - Vectores\E03 - Vectores\obj\Debug\E03 - Vectores.exe
+D:\E03 - Vectores\E03 - Vectores\obj\Debug\E03 - Vectores.pdb
