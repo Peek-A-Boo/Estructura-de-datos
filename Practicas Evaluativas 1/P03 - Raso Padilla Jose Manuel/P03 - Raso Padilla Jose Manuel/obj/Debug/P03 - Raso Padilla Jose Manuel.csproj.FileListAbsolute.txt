@@ -1,0 +1,13 @@
+C:\Users\PC\Downloads\Nueva carpeta\P03 - Raso Padilla Jose Manuel\P03 - Raso Padilla Jose Manuel\obj\Debug\P03 - Raso Padilla Jose Manuel.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Nueva carpeta\P03 - Raso Padilla Jose Manuel\P03 - Raso Padilla Jose Manuel\bin\Debug\P03 - Raso Padilla Jose Manuel.exe.config
+C:\Users\PC\Downloads\Nueva carpeta\P03 - Raso Padilla Jose Manuel\P03 - Raso Padilla Jose Manuel\bin\Debug\P03 - Raso Padilla Jose Manuel.exe
+C:\Users\PC\Downloads\Nueva carpeta\P03 - Raso Padilla Jose Manuel\P03 - Raso Padilla Jose Manuel\bin\Debug\P03 - Raso Padilla Jose Manuel.pdb
+C:\Users\PC\Downloads\Nueva carpeta\P03 - Raso Padilla Jose Manuel\P03 - Raso Padilla Jose Manuel\obj\Debug\P03 - Raso Padilla Jose Manuel.exe
+C:\Users\PC\Downloads\Nueva carpeta\P03 - Raso Padilla Jose Manuel\P03 - Raso Padilla Jose Manuel\obj\Debug\P03 - Raso Padilla Jose Manuel.pdb
+D:\Nueva carpeta\P03 - Raso Padilla Jose Manuel\P03 - Raso Padilla Jose Manuel\bin\Debug\P03 - Raso Padilla Jose Manuel.exe.config
+D:\Nueva carpeta\P03 - Raso Padilla Jose Manuel\P03 - Raso Padilla Jose Manuel\bin\Debug\P03 - Raso Padilla Jose Manuel.exe
+D:\Nueva carpeta\P03 - Raso Padilla Jose Manuel\P03 - Raso Padilla Jose Manuel\bin\Debug\P03 - Raso Padilla Jose Manuel.pdb
+D:\Nueva carpeta\P03 - Raso Padilla Jose Manuel\P03 - Raso Padilla Jose Manuel\obj\Debug\P03 - Raso Padilla Jose Manuel.csprojResolveAssemblyReference.cache
+D:\Nueva carpeta\P03 - Raso Padilla Jose Manuel\P03 - Raso Padilla Jose Manuel\obj\Debug\P03 - Raso Padilla Jose Manuel.csproj.CoreCompileInputs.cache
+D:\Nueva carpeta\P03 - Raso Padilla Jose Manuel\P03 - Raso Padilla Jose Manuel\obj\Debug\P03 - Raso Padilla Jose Manuel.exe
+D:\Nueva carpeta\P03 - Raso Padilla Jose Manuel\P03 - Raso Padilla Jose Manuel\obj\Debug\P03 - Raso Padilla Jose Manuel.pdb

@@ -1,0 +1,6 @@
+C:\Users\PC\Downloads\Nueva carpeta\PA04 - Raso Padilla Jose Manuel\PA04 - Raso Padilla Jose Manuel\bin\Debug\PA04 - Raso Padilla Jose Manuel.exe.config
+C:\Users\PC\Downloads\Nueva carpeta\PA04 - Raso Padilla Jose Manuel\PA04 - Raso Padilla Jose Manuel\bin\Debug\PA04 - Raso Padilla Jose Manuel.exe
+C:\Users\PC\Downloads\Nueva carpeta\PA04 - Raso Padilla Jose Manuel\PA04 - Raso Padilla Jose Manuel\bin\Debug\PA04 - Raso Padilla Jose Manuel.pdb
+C:\Users\PC\Downloads\Nueva carpeta\PA04 - Raso Padilla Jose Manuel\PA04 - Raso Padilla Jose Manuel\obj\Debug\PA04 - Raso Padilla Jose Manuel.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Nueva carpeta\PA04 - Raso Padilla Jose Manuel\PA04 - Raso Padilla Jose Manuel\obj\Debug\PA04 - Raso Padilla Jose Manuel.exe
+C:\Users\PC\Downloads\Nueva carpeta\PA04 - Raso Padilla Jose Manuel\PA04 - Raso Padilla Jose Manuel\obj\Debug\PA04 - Raso Padilla Jose Manuel.pdb
