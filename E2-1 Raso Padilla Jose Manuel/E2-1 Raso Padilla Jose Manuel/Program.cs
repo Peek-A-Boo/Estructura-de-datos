@@ -62,7 +62,7 @@ namespace E2_1_Raso_Padilla_Jose_Manuel
             tiempos.Stop();
         }
 
-        private double CalculaFactorialRecursivo(int baseNum)
+        private int CalculaFactorialRecursivo(int baseNum)
         {
             if (baseNum <= 1)
                 return 1;
@@ -70,9 +70,9 @@ namespace E2_1_Raso_Padilla_Jose_Manuel
                 return baseNum * CalculaFactorialRecursivo(baseNum -1 );
         }
 
-        private double CalculaFactorialFor(int baseNum)
+        private int CalculaFactorialFor(int baseNum)
         {
-            double resultado = 0;
+            int resultado = 0;
             for (int contador=0;contador<=baseNum;contador++)
             {
                 if (contador == 0)
