@@ -1,0 +1,7 @@
+C:\Users\PKBoo\Documents\E2-1 Raso Padilla Jose Manuel\E2-1 Raso Padilla Jose Manuel\bin\Debug\E2-1 Raso Padilla Jose Manuel.exe.config
+C:\Users\PKBoo\Documents\E2-1 Raso Padilla Jose Manuel\E2-1 Raso Padilla Jose Manuel\bin\Debug\E2-1 Raso Padilla Jose Manuel.exe
+C:\Users\PKBoo\Documents\E2-1 Raso Padilla Jose Manuel\E2-1 Raso Padilla Jose Manuel\bin\Debug\E2-1 Raso Padilla Jose Manuel.pdb
+C:\Users\PKBoo\Documents\E2-1 Raso Padilla Jose Manuel\E2-1 Raso Padilla Jose Manuel\obj\Debug\E2-1 Raso Padilla Jose Manuel.csprojResolveAssemblyReference.cache
+C:\Users\PKBoo\Documents\E2-1 Raso Padilla Jose Manuel\E2-1 Raso Padilla Jose Manuel\obj\Debug\E2-1 Raso Padilla Jose Manuel.csproj.CoreCompileInputs.cache
+C:\Users\PKBoo\Documents\E2-1 Raso Padilla Jose Manuel\E2-1 Raso Padilla Jose Manuel\obj\Debug\E2-1 Raso Padilla Jose Manuel.exe
+C:\Users\PKBoo\Documents\E2-1 Raso Padilla Jose Manuel\E2-1 Raso Padilla Jose Manuel\obj\Debug\E2-1 Raso Padilla Jose Manuel.pdb
