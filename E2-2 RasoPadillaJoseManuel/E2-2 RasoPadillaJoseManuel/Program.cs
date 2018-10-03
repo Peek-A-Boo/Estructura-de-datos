@@ -38,6 +38,7 @@ namespace E2_2_RasoPadillaJoseManuel
 
         public void CalcularFibonacci(double num,double[] resultados)
         {
+            int contador1 = 0;
             Stopwatch tiempos = Stopwatch.StartNew();
             CalcularFibonacciFor(num,resultados);
             Console.Write("El tiempo de ejecucion del metodo FOR fue: {0}\n\n", tiempos.Elapsed.TotalMilliseconds);
@@ -46,28 +47,44 @@ namespace E2_2_RasoPadillaJoseManuel
             Console.Write("\n\n");
             tiempos.Reset();
             tiempos.Start();
-            for(int contador=0;contador<num;contador++)
-            {
-                Console.Write("{0}.- {1}\n", (contador + 1), CalcularFibonacciRecursivo(contador));
-            }
+            CalcularFibonacciRecursivo(num,contador1,resultados);
             Console.Write("El tiempo de ejecucion del metodo recursivo fue: {0}\n\n", tiempos.Elapsed.TotalMilliseconds);
             tiempos.Stop();
+            resultados[0] = 0;
+            resultados[1] = 0;
         }
 
-        private double CalcularFibonacciRecursivo(double baseNum)
+        private void CalcularFibonacciRecursivo(double contador1,int contador2,double[] resultados)
         {
-            if (baseNum == 0)
+            double suma = 0;
+            if (contador2<contador1)
             {
-                return 0;
+                if (contador2 == 0)
+                {
+                    resultados[1] = 0;
+                    contador2++;
+                    Console.Write("{0}.- {1}\n", contador2, resultados[1]);
+                    CalcularFibonacciRecursivo(contador1, contador2, resultados);
+                }
+                else if (contador2 == 1)
+                {
+                    resultados[1] = 1;
+                    contador2++;
+                    Console.Write("{0}.- {1}\n", contador2, resultados[1]);
+                    CalcularFibonacciRecursivo(contador1, contador2, resultados);
+                }
+                else
+                {
+                    suma = resultados[1] + resultados[0];
+                    resultados[0] = resultados[1];
+                    resultados[1] = suma;
+                    contador2++;
+                    Console.Write("{0}.- {1}\n", contador2, resultados[1]);
+                    CalcularFibonacciRecursivo(contador1, contador2, resultados);
+                }
+
             }
-            else if (baseNum == 1 || baseNum ==2)
-            {
-                return 1;
-            }
-            else
-            {
-                return CalcularFibonacciRecursivo(baseNum - 2) + CalcularFibonacciRecursivo(baseNum - 1);
-            }
+
         }
 
         private void CalcularFibonacciFor(double baseNum, double[] resultados)
