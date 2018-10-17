@@ -41,10 +41,12 @@ namespace E3_2_Raso_Padilla_Jose_Manuel
                 Object objeto = ejemplo.Current;
                 Console.WriteLine("4.-" + objeto);
             }
-            Console.ReadKey();
+            //Convierte la cola a un arreglo(Igual que en las pilas)
+            Console.WriteLine("5.- " + weaita.ToArray().ElementAt(1));
+            //Convierte la cola a un string (Igual que en las pilas)
+            Console.WriteLine("6.- " + weaita.Peek().ToString());
 
-            //Los metodos de ToString, ToArray y contains son practicamente lo mismo a los de stack asi que
-            //Por esa razon no se encuentran en este ejemplo (Se deben poner solo las diferentes)
+            Console.ReadKey();
         }
     }
 }
