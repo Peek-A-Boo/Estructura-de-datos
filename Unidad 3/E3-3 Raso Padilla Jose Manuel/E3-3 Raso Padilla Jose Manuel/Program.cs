@@ -39,7 +39,7 @@ namespace E3_3_Raso_Padilla_Jose_Manuel
                     {
                         Console.Clear();
                         Console.Write("♠♥♦♣ Juegos: {0} ♠♥♦♣\n♠♥♦♣ Victorias: {1} ♠♥♦♣\n♠♥♦♣Derrotas: {2} ♠♥♦♣\n\n", juegos, victorias, derrotas);
-                        Console.Write("\n\n¿Desea jugar? (Y/N)\n");
+                        Console.Write("\n\n¿Desea regresar al menu? (Y/N)\n");
                         opcion = Console.ReadLine().ToUpper();
                     }
                     else //Si no selecciono ninguna de las dos despliega opcion incorrecta
@@ -53,7 +53,7 @@ namespace E3_3_Raso_Padilla_Jose_Manuel
 
                 catch (Exception e)
                 {
-                    Console.Write("error encontrado: {1}", e);
+                    Console.Write("error encontrado: {0}", e.Message);
                     opcion = "Y";
                 }
             } while (opcion == "Y");
