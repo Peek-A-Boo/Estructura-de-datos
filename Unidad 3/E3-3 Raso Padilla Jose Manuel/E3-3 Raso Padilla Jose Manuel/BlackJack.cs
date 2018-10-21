@@ -165,7 +165,7 @@ namespace E3_3_Raso_Padilla_Jose_Manuel
             total = 0; //La suma total se convierte a 0
             foreach (Carta objeto in mano) //Por cada carta en la mano realizara lo que esta dentro del ciclo
             {
-                if ((objeto.Valor>=2) && (objeto.Valor<=10)) //Si el valor obtenido del split esta entre 2 y 10
+                if ((objeto.Valor>=2) && (objeto.Valor<=10)) //Si el valor de la carta esta entre 2 y 10
                 {
                     total = total + objeto.Valor; //el total se suma con el valor que tenga la carta
                 }
