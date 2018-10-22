@@ -32,7 +32,7 @@ namespace E3_3_Raso_Padilla_Jose_Manuel
                     {
                         Console.Clear();
                         Wea.Jugar(ref victorias, ref derrotas, ref juegos);
-                        Console.Write("\n\n¿Desea volver a jugar? (Y/N)\n");
+                        Console.Write("\n\n¿Desea regresar al menu? (Y/N)\n");
                         opcion = Console.ReadLine().ToUpper();
                     }
                     else if (opcion2 == "2") //Si selecciona 2 se despliega las estadisticas
