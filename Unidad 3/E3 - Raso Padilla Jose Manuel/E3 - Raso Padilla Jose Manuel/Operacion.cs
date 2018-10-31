@@ -83,7 +83,16 @@ namespace E3___Raso_Padilla_Jose_Manuel
                 opcion = Console.ReadLine().ToUpper();
             } while (opcion == "Y");
             Console.Clear();
+
+            foreach (string item in PalabrasReservadas)
+            {
+                Console.WriteLine(item);
+            }
             Console.Write("Palabras reservadas escritas: {0}\n", PalabrasReservadas.Count());   //Escribe el numero de palabras reservadas escritas
+            foreach (string item in Literales)
+            {
+                Console.WriteLine(item);
+            }
             Console.Write("Literales escritas: {0}", Literales.Count());                        //Escribe el numero de literales escritas
             Literales.Clear();
             PalabrasReservadas.Clear(); //Limpia ambas listas enlazadas
