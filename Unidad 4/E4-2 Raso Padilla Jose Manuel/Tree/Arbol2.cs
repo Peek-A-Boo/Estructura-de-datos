@@ -30,7 +30,10 @@ namespace Tree
             Console.ReadLine();
             Arbol.ImprimirArbol(Arbol.raiz, Arbol);
             Console.ReadLine();
-            Console.Write("Ruta al elemento mas largo: E -> A -> B -> C");
+            //Console.Write("Ruta al elemento mas largo: E -> A -> B -> C");
+            Console.Write("Ruta al elemento mas largo (Ruta mas larga): ");
+            Arbol.ImprimirRuta(Arbol.raiz, Arbol, "C", Arbol.raiz);
+            Console.ReadLine();
         }
     }
 }

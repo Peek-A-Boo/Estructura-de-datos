@@ -35,11 +35,14 @@ namespace Tree
             Console.ReadLine();
             Arbol.ImprimirArbol(Arbol.raiz, Arbol);
             Console.ReadLine();
-            Console.WriteLine("Ruta al elemento C: K -> C");
+            Console.Write("Ruta a C: ");
+            Arbol.ImprimirRuta(Arbol.raiz, Arbol, "C", Arbol.raiz);
             Console.ReadLine();
-            Console.Write("Ruta al elemento H: K -> D - > E -> G -> H ");
+            Console.Write("Ruta a H: ");
+            Arbol.ImprimirRuta(Arbol.raiz, Arbol, "H", Arbol.raiz);
             Console.ReadLine();
-            Console.WriteLine("Ruta al elemento J: K -> D -> I -> J");
+            Console.Write("Ruta a J: ");
+            Arbol.ImprimirRuta(Arbol.raiz, Arbol, "J", Arbol.raiz);
             Console.ReadLine();
         }
     }

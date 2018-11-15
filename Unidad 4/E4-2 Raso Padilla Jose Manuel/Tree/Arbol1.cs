@@ -27,8 +27,11 @@ namespace Tree
             Console.ReadLine();
             Arbol.ImprimirArbol(Arbol.raiz, Arbol);
             Console.ReadLine();
-            Console.Write("Ruta al elemento mas largo: G -> A -> C");
+            Console.Write("Ruta al elemento mas largo (Ruta mas larga): ");
+            Arbol.ImprimirRuta(Arbol.raiz,Arbol,"F",Arbol.raiz);
             Console.ReadLine();
+            //Console.Write("Ruta al elemento mas largo: G -> A -> C");
+            //Console.ReadLine();
         }
     }
 }

@@ -10,7 +10,7 @@ namespace Tree
     class Arboles
     {
         public Nodo raiz; //Nodo raiz
-        private List<string> Ruta = new List<string>();
+        private LinkedList<string> Ruta = new LinkedList<string>();
         public Arboles()
         {
             raiz = null; //Al iniciar el arbol la raiz empieza nula
@@ -142,41 +142,36 @@ namespace Tree
             }
         }
 
-        /*public void ObtenerRuta(Nodo Nodin, Arboles Arbolin, string letra,Nodo Temporal)
+        public void ObtenerRuta(Nodo Nodin, Arboles Arbolin, string letra, Nodo Temporal) //Metodo recursivo para hacer la ruta a un nodo en especifico
         {
-            Ruta.Add(Nodin.Letra);
-            ObtenerRuta(Nodin, Arbolin, letra, Temporal);
-        }
-
-        public void ObtenerRuta(Nodo Nodin, Arboles Arbolin,string letra, int prueba, Nodo Temporal)
-        {
-            if (Nodin!=null)
-            {
+            if (Nodin != null)              //Ingreso dos veces la raiz debido a que la raiz sera necesario para que se pueda volver a recorrer el arbol
+            {                               //Debido a como funciona el metodo recursivo
                 foreach (Nodo wea in Nodin.Hijos)
                 {
-                    if(letra==wea.Letra)
+                    if (letra == wea.Letra)     //Cuando se encuentra el nodo que tiene la letra buscada
                     {
-                        Ruta.Add(wea.Letra);
-                        ObtenerRuta(wea, Arbolin,Nodin.Letra,1,Temporal); //Vuelve a llamar el metodo
-                    }
+                        Ruta.AddFirst(wea.Letra);       //Se agrega la letra a la lista
+                        ObtenerRuta(Temporal, Arbolin, Nodin.Letra, Temporal); //Vuelve a llamar el metodo pero desde el inicio otra vez y esta vez la letra buscada
+                    }                                                           //Es la del nodo que tenia de hijo al nodo buscado
                     else
                     {
-                        ObtenerRuta(wea, Arbolin, letra, 1,Temporal); //Vuelve a llamar el metodo
+                        ObtenerRuta(wea, Arbolin, letra, Temporal); //Vuelve a llamar el metodo si no es la misma letra
                     }
                 }
             }
         }
-        */
-
-        /*public void ImprimirRuta(Nodo Nodin, Arboles Arbolin, string letra, Nodo Temporal)
+   
+        public void ImprimirRuta(Nodo Nodin, Arboles Arbolin, string letra, Nodo Temporal)
         {
-            ObtenerRuta(Nodin, Arbolin, letra,Temporal);
+            ObtenerRuta(Nodin, Arbolin, letra,Temporal); //Obtiene la ruta
+            Ruta.AddFirst(Nodin.Letra); //Debido a que mi metodo no lee la raiz por alguna razon la agrego al final
             foreach (string wea in Ruta)
             {
-                Console.WriteLine(wea);
+                Console.Write("{0} -> ", wea);      //Despliega la lista que tiene la ruta al nodo en cuestion
             }
+            Ruta.Clear();
         }
-        */
+        
 
     }
 }

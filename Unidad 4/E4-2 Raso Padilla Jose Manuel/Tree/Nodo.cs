@@ -20,7 +20,6 @@ namespace Tree
             Hijos = new List<Nodo>();
             this.Valor = dato;
             this.Letra = letra;
-
         }
 
         public Nodo(int dato, string letra, int nivel)

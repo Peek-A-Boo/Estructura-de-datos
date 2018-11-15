@@ -46,7 +46,7 @@ namespace Tree
                             Console.ReadKey();
                             break;
                     }
-                    Console.Write("¿Desea ver otro arbol? (Y/N)");
+                    Console.Write("¿Desea ver otro arbol? (Y/N) \n");
                     bandera = Console.ReadLine().ToUpper();
                 } while (bandera == "Y");
              }
