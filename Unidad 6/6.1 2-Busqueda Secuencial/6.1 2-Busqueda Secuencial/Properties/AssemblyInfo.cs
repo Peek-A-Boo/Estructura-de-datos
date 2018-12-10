@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("6.1 - Busqueda Secuencial")]
+[assembly: AssemblyTitle("6.1 2-Busqueda Secuencial")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("6.1 - Busqueda Secuencial")]
+[assembly: AssemblyProduct("6.1 2-Busqueda Secuencial")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("9dd15809-51e0-44c3-b21c-07b141b52d04")]
+[assembly: Guid("b53a725a-70c8-4531-a272-b6502f7010aa")]
 
 // Version information for an assembly consists of the following four values:
 //

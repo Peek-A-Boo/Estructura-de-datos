@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _6._1___Busqueda_Secuencial
+namespace _6._1_1_Busqueda_Secuencial
 {
     class Menu
     {
@@ -16,7 +16,7 @@ namespace _6._1___Busqueda_Secuencial
             Busqueda objeto = new Busqueda(); //Se crea el objeto que tiene la busqueda secuencial
 
             Console.Write("Elementos en el arreglo 1: \n"); //Imprime los elementos dentro de los arreglos
-            foreach(int elemento in Numeros1)
+            foreach (int elemento in Numeros1)
             {
                 Console.Write("{0} - ", elemento);
             }

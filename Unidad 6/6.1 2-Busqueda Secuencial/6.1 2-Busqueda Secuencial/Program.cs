@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _6._1___Busqueda_Secuencial
+namespace _6._1_2_Busqueda_Secuencial
 {
     class Program
     {
